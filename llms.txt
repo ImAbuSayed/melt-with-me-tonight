@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/melt-with-me-tonight/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Melt With Me Tonight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/melt-with-me-tonight/) |
+| **Get License** | [License this song: Melt With Me Tonight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/melt-with-me-tonight/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Pull the shades down low and let the shadows fall
+> I don't want to share this quiet room at all
+> Just the ember glowing and the way you breathe
+> Come a little closer, get lost in me
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `816f61d0ead08a1029cf08a5654f531244b60ad9400e6a93c5d8a68252118edc` |
 | **Timestamp** | June 12, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
